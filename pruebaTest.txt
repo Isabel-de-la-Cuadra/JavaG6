@@ -1,0 +1,26 @@
+Hola mundo desde Git
+
+git config --global user.name "SU NOMBRE"
+
+git config --global user.email "su_email@gmail.com"
+
+-----
+git init - se ejecuta una sola vez-
+
+git add . 
+
+git commit -m "mensaje de lo realizado"
+
+git remote add origin https://github.com/su_nick/su_proyecto.git -se ejecuta una sola vez-
+
+git push -u origin master
+
+-------
+
+git clone https://github.com/Isabel-de-la-Cuadra/JavaG6.git clonar desde la web al pc
+
+------
+
+git add.
+git commit -m "mensaje de lo realizado"
+git push -u origin master
